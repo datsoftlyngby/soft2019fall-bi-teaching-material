@@ -18,8 +18,6 @@ Run the program `assignment_1.py` in your preferred python environment (command 
   * Hand-in at latest on Wednesday, Sept. 4th at 11:59: You will upload a link to the markdown document on PeerGrade -- one link per group.
 
 ## Hints:
-  * The easiest way to get up-and-running is by cloning this repository (`soft2019fall-bi-teaching-material`) to your computer. Then, create the virtual machine (VM) if you have not done so -- see directory `soft2019fall-bi-teaching-material/vm`. Log onto the VM, and then change the present working directory to this Assignment 1.
-  * To run the program sucessfully you need to be connected to the internet.
   * You can run the program either from the command-line `$ python assignment_1.py` or from within a notebook or the REPL by importing `assignment_1.py` via something like:
 
 "
