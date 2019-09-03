@@ -1,4 +1,4 @@
-# Assignment 2: Data (Pre)processing
+# Assignment 2: Data (Pre)processing and Simple Plotting
 
 ## Task
 
