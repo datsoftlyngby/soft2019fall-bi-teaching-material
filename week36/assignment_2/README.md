@@ -44,4 +44,5 @@
     - That `README.md` contains a first section with your solutions to all tasks.
   * Hand-in a link to the **release** on Peergrade; check https://help.github.com/articles/linking-to-releases/
   * Hand-in at latest on Wednesday Sept. 11th, 08:30. You will upload a link to the **release** on Moodle (one link per group).
+  * Hand-in as groups.
 
