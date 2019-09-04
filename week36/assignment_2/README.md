@@ -38,10 +38,10 @@
 
 ## Hand-in Procedure
 
-  * Provide all code, documentation, and solution text for this assignment in a repository on Github.
+  * Provide all code as a single Jupyter notebook, documentation, and solution text for this assignment in a repository on Github.
   * Create a release of your project on Github, see https://help.github.com/articles/creating-releases/
   * Create a Markdown (.md) file called `README.md` in the root of your project.
     - That `README.md` contains a first section with your solutions to all tasks.
   * Hand-in a link to the **release** on Peergrade; check https://help.github.com/articles/linking-to-releases/
-  * Hand-in at latest on Wednesday Sept. 11th, 08:30. You will upload a link to the **release** on Moodle (one link per group).
+  * Hand-in at latest on Wednesday Sept. 11th, 08:30. You will upload the link to the **release** on Peergrade (one link per group).
 
