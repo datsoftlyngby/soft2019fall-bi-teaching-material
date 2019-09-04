@@ -1,4 +1,4 @@
-# Assignment 2: Data (Pre)processing
+# Assignment 2: Data (Pre)processing and Simple Plotting
 
 ## Task
 
@@ -33,7 +33,7 @@
       return d
   ```
 
-  Create another satter plot as in the task above, but use the computed dsitances as color values, see keyword arguments `c=` and `cmap=` in the documentation of the scatter function `plt.scatter?`.
+  Create another scatter plot as in the task above, but use the computed distances as color values, see keyword arguments `c=` and `cmap=` in the documentation of the scatter function `plt.scatter?`.
 
 
 ## Hand-in Procedure
