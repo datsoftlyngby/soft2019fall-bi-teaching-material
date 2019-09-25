@@ -20,7 +20,7 @@ Learn to set up a database server in the cloud (Azure), and connect to it from a
    We will do the hand-in Assignment 4 together in class, so that it can be handed-in already this week, early. The objective is to make room for hand-in Assignment 5 to be released already this week as well.
 
 - **Reading/Homework:** 
-  * Read carefully the slides in this week's repo.
+  * Read carefully the slides from Lasse's talk on Hitachi Vantara's Pentaho platform (in folder week 47). 
   * Work on Assignment 5. 
 
 **Estimated need for activity outside classroom:** A good 8-12 hours. Mostly due to the hand-in Assignment 5, **with your group!**.
