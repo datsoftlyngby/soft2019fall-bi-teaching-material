@@ -2,7 +2,9 @@
 
 ## Task
 
-  1. Download and install the Pentaho CE BI suite. On windows, you go to this site, fill out the form, click 'windows' _**below**_ the 'Download Free Trial' button. This will bring you to download [the Windows installer (exe file).](https://www.hitachivantara.com/go/try-pentaho-now/?ecid=ps_glo_bd_en_ss0091sem&utm_campaign=Google%7CPaid-Search%7CPentaho%7CDDI%7CBrand%7CEmea&utm_ad_group=Paid-Search%7CPentaho%7CDDI%7CBrand%7CTrial&leadsource=Google_Ads_Search&keyword=download%20pentaho&utm_medium=cpc&medium=Google_Search&utm_source=google&asset_name=Free_Trial&gclid=EAIaIQobChMI3da-pcHw5AIVk-R3Ch2X9gi4EAAYASAAEgLxEfD_BwE). 
+  1. Download and install the Pentaho CE BI suite. On windows, you go to this site, fill out the form, click 'windows' _**below**_ the 'Download Free Trial' button: 
+  ![](windows.png)
+  This will bring you to download [the Windows installer (exe file).](https://www.hitachivantara.com/go/try-pentaho-now/?ecid=ps_glo_bd_en_ss0091sem&utm_campaign=Google%7CPaid-Search%7CPentaho%7CDDI%7CBrand%7CEmea&utm_ad_group=Paid-Search%7CPentaho%7CDDI%7CBrand%7CTrial&leadsource=Google_Ads_Search&keyword=download%20pentaho&utm_medium=cpc&medium=Google_Search&utm_source=google&asset_name=Free_Trial&gclid=EAIaIQobChMI3da-pcHw5AIVk-R3Ch2X9gi4EAAYASAAEgLxEfD_BwE). 
 
   2. Launch the installer as administrator, follow instructions. 
 
