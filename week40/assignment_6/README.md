@@ -12,7 +12,7 @@ If you want to become a bit more advanced, you can use a linear model with *two*
 
 It is what we call a function _linear_ in `x1` and `x2`. Because the function value `y` depends on the unknown variables `x1` and `x2` to the first power, so meaning fx `x1^1`, at the most. Fx `x1^2` (or '`x1` squared') would be non-linear (a parabolic function value from `x1`, the unknown).
 
-This might make our predictions even more precise, if we have more than one 'feature' to build our model function on: because we have one more explanatory factor to find out what the right value of `y` should be, namely now the two variables (or features) `x1` and `x2`.
+Our predictions might become even more precise, if we have more than one 'feature' to build our model function on: because we have one more explanatory factor to find out what the right value of `y` should be, namely now the two variables (or features) `x1` and `x2` -- and parameters `a`, `b`, and `c`, as input to our function, `y(x1, x2) = a*x1 + b*x2 + c`, which we wan to fit to the data.
 
 ## Part 1: Predicting Hackernews Points With Linear Regression in One Variable
 For this part we would like to predict how long a user has to be active
