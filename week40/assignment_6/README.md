@@ -32,6 +32,8 @@ _Outcome 1.1: Hand-in a plot that shows time on the x-axis and number of points 
 The next part is to select an appropriate model. Study your data either visually or 
 by going through the .csv file; what are you finding? What kind of model would it fit? 
 
+Models could be fx.: Support Vector Machines, Decision Trees, k-Nearest Neighbors, ...
+
 You can assume that models existing in `sklearn` is appropriate. You can use the Scikit-learn cheat sheet to guide you in your choice.
 
 _Outcome 1.2: Describe with at least five lines of text: which model you chose, and why._
