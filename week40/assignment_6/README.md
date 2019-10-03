@@ -43,14 +43,14 @@ Next you'll must train your model. Remember the ML life cycle...
 
 The training step will require you to create your selected model using one of the `sklearn` ML model classes (check cheat sheet again). Feed it data to *train* it.
 
-_Outcome: Hand-in the code (markdown will do) that trains the data._
+_Outcome 1.3: Hand-in the code (markdown will do) that trains the data._
 
 ### Part 1.4: Model Validation
 Now that you have a trained model you will need to validate it (check ML Wheel again). 
 
 Validate your model. This should be done both intuitively, computationally, and visually. 
 
-_Outcome; Hand-in:_
+_Outcome 1.4: Hand-in ..._
 
 _1. A one-page description of the model parameters -- number of which are model dependent: Why are they there? What is their purpose in the model? What do they explain for your data? How are they helping you to predict how much time you need to be active in order to gain Hackernews points?_
 
@@ -94,7 +94,7 @@ Going back to the Hackernews data set from the last assignment, use a linear mod
 
 That is, instead of _only_ using time to predict number of Hackernews points, use both _time_ **and** _number\_of\_ posts_ to predict the number of Hackernews points.
 
-Outcome; Hand-in:
+_Outcome 2:_ Hand-in ...
   * A description of the parameters
   * An analysis of how much time you need to be active on Hackernews, plus how many posts you need to reach 1000 points.
   * Explain: how much does the number of posts contribute to get the points? How much do the time since registration explain?
@@ -119,14 +119,14 @@ Load the data from this ``.csv``:
 [http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data](http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data).
 Have a look at the data before you get started with the analysis. 
 
-_Outcome:_ Report the ``head`` of the table. Write two lines about notable features of the data. How big is your dataset? What are the different variables? Etc...?
+_Outcome 3.1:_ Report the ``head`` of the table. Write two lines about notable features of the data. How big is your dataset? What are the different variables? Etc...?
 
 ### Part 3.2: Building the model
 Our goal is to predict whether the we have observed benign or malign cancer.
 
 For this part you can choose the input variables, but you must use _at least_ three: which ones do you think have the most impact? Can you tell by data inspection directly? Intuition? Statistics of the data set? Anyway: choose at least two features to choose/train/validate your model upon.
 
-_Outcome:_ Hand-in a description of your chosen variables and why you think they could help predict breast cancer.
+_Outcome 3.2:_ Hand-in a description of your chosen variables and why you think they could help predict breast cancer.
 
 ### Part 3.3 Evaluating the model
 Now take the data from dataset and train your chosen model. 
@@ -135,7 +135,7 @@ To figure out how good your model was, use the function here
 It gives you an accuracy that tells you how good your model is 
 able to predict whether a tumor is benign or malignant.
 
-_Outcome:_ Hand-in 
+_Outcome 3.3:_ Hand-in ...
 
   * the accuracy of the score 
   * five lines describing what that number of accuracy actually means.
@@ -149,5 +149,5 @@ _Outcome:_ Hand-in
   * Hand-in a link to the **release** on Peergrade.
   * The hand-in (on Peergrade) should be a link to a GitHub **release** containing a
 **single** Jupyter Notebook file (e.g. ``assignment6.ipynb``) with the code, plots and written text for the assignment parts.
-  * Hand-in at latest on Wednesday Oct. 2nd, 2019, 08:30.
+  * Hand-in at latest on Wednesday Oct. 16th, 2019, 08:30.
   * Hand-in as groups! Work as groupS, groUPS, GROUPS!  :o) 
