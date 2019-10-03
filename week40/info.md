@@ -19,7 +19,7 @@ You will acquire competency to decide which machine learning model to select for
 - **In-class exercises:** Regression, classification.
 
 - **Reading _over the next three weeks(!)_ :** 
-  * Read The 100 Page ML Book, it's on the GitHub, [here](../100PageMLBook.pdf):
+  * Read from [The 100 Page ML Book](../100PageMLBook.pdf):
 
      - Chap. 1: All. 
      - Chap. 2: Sections 2.1.1 and 2.1.9
@@ -35,7 +35,7 @@ You will acquire competency to decide which machine learning model to select for
      **_In particular the [Scikit-learn reading section on machine learning on real-world data sets](https://scikit-learn.org/stable/auto_examples/index.html#examples-based-on-real-world-datasets) can prove very rewarding, even if read lightly._**
 
 - **Homework:**
-  * Work on Assignment 6, in groups.
+  * Work on [Assignment 6](https://github.com/datsoftlyngby/soft2019fall-bi-teaching-material/tree/master/week40/assignment_6), in groups.
 
 **Estimated need for activity outside classroom:** A good 8-12 hours _per week_. Mostly due to the reading and example studies (from the resources listed above), and the work with hand-in Assignment 6, **with your group!**.
 
