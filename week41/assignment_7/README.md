@@ -3,25 +3,46 @@
 
 One of the biggest challenges in real estate broking is -- not surpringly -- correct pricing. 
 
-## Multi-class models.
+## Supervised Machine Learning; classification.
 
-In this assignment we return to the Boliga data. The objective is to build a classification machine learning model in Azure Machine Learning Studio (AML) from scratch. You will try to predict whether an estate sale will sell at over, at, or under the broker's initial pricing. What does that amount to? It amounts to a multi-class model.
+In this assignment we return to the Boliga data. The objective is to build a classification machine learning model from scratch. One _suggestion_ for some tooling is Azure Machine Learning Studio, AML. You will try to predict whether an estate sale will sell _over_, _at_, or _under_ the broker's initial pricing. What does that amount to? It amounts to classification model. 
 
-How many classes do we have for this business case question? 
+How many classes do we have for this business case question? You can choose to base your model on 2 or more classes -- as we talked about during lectures.
 
-Put the answer in your hand-in and argue about what other good business questions could be posed from the Boliga data.
+Put the answer in your hand-in and argue about what other good business questions could be posed from the Boliga data. It could also be that regression models could answer some interesting questions, mind you.
 
 ### Part 1: Data processing
-Get the Boliga data and geolocations into an AML account of your group, with the geolocations too. You will need to work on the target variable (class label) as it is an integer -- but should be categorical. Is the data clean, meaningful, well formed?
+Get the Boliga data, including the geolocations, into your favorite machine learning tool. This could be AML, fx, but it is your choice. 
+
+You will need to work on the target variable (class label) as it is an integer -- but should be categorical. Other things to consider are:
+
+Is the data 
+
+  * clean, 
+  * meaningful, 
+  * well formed (æ,ø,å, etc) 
+  * balanced? Do you need to _re-balance_ the data? 
+  * how to re-balance, if needed?
 
 ### Part 2: ML model selection and construction 
-In AML, build a three-level classification model with the objective of predicting whether a housing sale price was adjusted downwards, upwards, or not adjusted. 
+Build a classification model, the objective being to predict whether a housing sale price would be adjusted or not adjusted. 
 
 ### Part 3: Training & Validation
-With your _training_ and _test_ data set, train your model and validate it. Determine its performance by inspecting the ROC curve in AML.
+Take out about 50 rows from each class in a separate dataframe, for your prediction step. Let's call them the _validation_ data set.
 
-### Part 4: House Keeping
-Clean up your work space when you're done. You don't want unnecessary waste of resources, which you might want to use at a later time. 
+Split the remaining (many!) rows in _training_ and _test_ data. 
+
+With your _training_ and _test_ data set, train your model and validate it. Determine its performance by inspecting the either the ROC curve -- if data are balanced, or the Precision-Recall curve -- if data are un-balanced. 
+
+### Part 4: Report your findings (BI)
+Plot your predicted classes, for the 50 rows per class you kept aside (_validation_ data), on a map of Denmark. 
+
+Use your knowledge of visualization taxonomy to color, size and place the points on the map. Also plot true class of the price change next to the predicted class.
+
+Write a brief 5-10 lines report, on your findings and conclusions from your prediction validation.
+
+### Part 5: House Keeping
+Clean up your work space when you're done, if you chose AML or other paid ML as-a-service. You don't want unnecessary waste of resources, which you might want to use at a later time. And you definitely should avoid paying for it...
 
 ## Hand-in Procedure
 
