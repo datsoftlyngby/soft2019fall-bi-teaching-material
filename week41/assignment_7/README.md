@@ -21,7 +21,7 @@ Is the data
   * clean, 
   * meaningful, 
   * well formed (æ,ø,å, etc) 
-  * balanced? Do you need to _re-balance_ the data? 
+  * balanced, do you need to _re-balance_ the data,
   * how to re-balance, if needed?
 
 ### Part 2: ML model selection and construction 
@@ -32,7 +32,9 @@ Take out about 50 rows from each class in a separate dataframe, for your predict
 
 Split the remaining (many!) rows in _training_ and _test_ data. 
 
-With your _training_ and _test_ data set, train your model and validate it. Determine its performance by inspecting the either the ROC curve -- if data are balanced, or the Precision-Recall curve -- if data are un-balanced. 
+With your _training_ and _test_ data set, train your model and evaluate (test) it. Determine its performance by inspecting the either the ROC curve -- if data are balanced, or the Precision-Recall curve -- if data are un-balanced. 
+
+Regarding the issue of balanced data sets, you should read the Jupyter notebook _'./week41/lecture_notesImbalanceResamplingStrategies.ipynb'_ in GitHub. But stay with simple deletion of rows to balance your classes; remember that you have about 1.5 million rows.
 
 ### Part 4: Report your findings (BI)
 Plot your predicted classes, for the 50 rows per class you kept aside (_validation_ data), on a map of Denmark. 
