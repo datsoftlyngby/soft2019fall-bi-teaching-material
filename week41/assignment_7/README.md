@@ -34,17 +34,19 @@ Take out about 50 rows from each class in a separate dataframe, for your predict
 
 Split the remaining (many!) rows in _training_ and _test_ data. 
 
-With your _training_ and _test_ data set, train your model and evaluate (test) it. Determine its performance by inspecting the either the ROC curve -- if data are balanced, or the Precision-Recall curve -- if data are un-balanced. 
+With your _training_ and _test_ data set, train your model and evaluate (test) it. Determine its performance by either:
+  1. _If you made a binary classifier model;_ inspecting the ROC curve -- if data are balanced, or the Precision-Recall curve -- if data are un-balanced. 
+  2. _If you made a multi-level classifier model;_ inspecting the confusion matrix and compute _accuracy_, _precision_, and _recall_, for all classes (remember 3 classes => 3x3 conf.mat.).
 
 ### Part 4: Report your findings (BI)
-Plot your predicted classes, for the 50 rows per class you kept aside (_validation_ data), on a map of Denmark. 
+Plot your predicted classes, for the 50 rows per class you kept aside (_validation_ data), on a map of Denmark. Also plot true class of the price change next to the predicted class (with a different symbol fx).
 
-Use your knowledge of visualization taxonomy to color, size and place the points on the map. Also plot true class of the price change next to the predicted class.
+Use your knowledge of visualization taxonomy to color, size and place the points on the map.
 
 Write a brief 5-10 lines report, on your findings and conclusions from your prediction validation.
 
 ### Part 5: House Keeping
-Clean up your work space when you're done, if you chose AML or other paid ML as-a-service. You don't want unnecessary waste of resources, which you might want to use at a later time. And you definitely should avoid paying for it...
+Clean up your work space when you're done, if you chose AML or other paid ML as-a-Service. You don't want unnecessary waste of resources, which you might want to use at a later time. And you definitely should avoid paying for it...
 
 ## Hand-in Procedure
 
