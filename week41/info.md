@@ -5,7 +5,7 @@
 Announcements and general information is available through the [Moodle flow](https://cphbusiness.mrooms.net/course/view.php?id=3874). 
 
 ### Focus this week
-We Block II on basic machine learning. Our focus for the week was multi-level class classification.
+We wrap up Block II on basic machine learning. Our focus for the week was multi-level class classification.
 
 ### Learning Objectives
 In this block, you will gain knowledge of classification models. You will be able to setup a basic machine learning model in Python, and in Azure Mcahine Learning Studio (example of MLaaS, ML as-a-Service). You will acquire competency to decide which classification model to select for a given business question.
