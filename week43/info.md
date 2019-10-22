@@ -16,16 +16,17 @@ You will acquire competency to present the results concerning a given business q
 ### Teaching and Learning Activities (TLAs)
 **Lectures:** 
    1. **20 minute _student presentations_ of the groups' hand-in Assignments 3-7** (15 minutes presentation + 5 minutes for questions). Prepare about 5-7 slides to support your presentation.  
-   
-   Also, remember that things that did not work are still quite OK to present. As long as you thought about why, and how it might have been fixed. This is learn about approaches, challenges, work-arounds and outlook.
+     Also, remember that things that did not work are still quite OK to present. As long as you thought about why, and how it might have been fixed. This is learn about approaches, challenges, work-arounds and outlook.
 
-   * Assignment 3: group _'Fragile Impression'_
-   * Assignment 4: group _'Power Smiling'_
-   * Assignment 5: group _'Perfect Potato'_
-   * Assignment 6: group _'Dangerous Memory'_
-   * Assignment 7: group _'Ill Introduction'_
+     * Assignment 3: group _'Fragile Impression'_
+     * Assignment 4: group _'Power Smiling'_
+     * Assignment 5: group _'Perfect Potato'_
+     * Assignment 6: group _'Dangerous Memory'_
+     * Assignment 7: group _'Ill Introduction'_
 
-**In-class exercises:** The time we might have left will be spent for asking questions about the course, and exam.
+2. Forming the exam attendance list.
+
+**In-class exercises:** Any time we might have left over will be spent for asking questions about the course, and exam.
 
 **Reading _weeks 40-43_ :** 
 Read from [The 100 Page ML Book](../100PageMLBook.pdf) on machine learning:
