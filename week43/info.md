@@ -14,9 +14,10 @@ You will present your solutions to Assignments 3 through 7 during classroom hour
 You will acquire competency to present the results concerning a given business question in front of a critical audience (your classmates).
 
 ### Teaching and Learning Activities (TLAs)
-**Lectures:** **20 minute _student presentations_ of the groups' hand-in Assignments 3-7** (15 minutes presentation + 5 minutes for questions). Prepare about 5-7 slides to support your presentation. 
-
-Also, remember that things that did not work are still quite OK to present. As long as you thought about why, and how it might have been fixed. This is learn about approaches, challenges, work-arounds and outlook.
+**Lectures:** 
+   1. **20 minute _student presentations_ of the groups' hand-in Assignments 3-7** (15 minutes presentation + 5 minutes for questions). Prepare about 5-7 slides to support your presentation.  
+   
+   Also, remember that things that did not work are still quite OK to present. As long as you thought about why, and how it might have been fixed. This is learn about approaches, challenges, work-arounds and outlook.
 
    * Assignment 3: group _'Fragile Impression'_
    * Assignment 4: group _'Power Smiling'_
